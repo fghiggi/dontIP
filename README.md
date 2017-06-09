@@ -1,6 +1,6 @@
 # dontIP
 
-Persoanl DDNS
+Personal DDNS
 
 ## Installation
 
